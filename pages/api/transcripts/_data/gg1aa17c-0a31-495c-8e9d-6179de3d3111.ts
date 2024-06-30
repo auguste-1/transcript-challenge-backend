@@ -1,7 +1,7 @@
 export const gogo = {
   id: 'gg1aa17c-0a31-495c-8e9d-6179de3d3111',
   title: 'Gogo Q1 2023',
-  audioUrl: `https://${process.env.VERCEL_URL}/gg1aa17c-0a31-495c-8e9d-6179de3d3111.ogg`,
+  audioUrl: `${process.env.VERCEL_URL}/gg1aa17c-0a31-495c-8e9d-6179de3d3111.ogg`,
   blocks: [
     {
       end: 6.5200000000000005,

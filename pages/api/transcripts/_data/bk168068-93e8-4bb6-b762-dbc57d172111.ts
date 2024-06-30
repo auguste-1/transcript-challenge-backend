@@ -1,13 +1,13 @@
 export const burgerKingFrance = {
-  id: 'bk168068-93e8-4bb6-b762-dbc57d172111',
-  title: 'Burger King France Q1 2023',
-  audioUrl: `https://${process.env.VERCEL_URL}/bk168068-93e8-4bb6-b762-dbc57d172111.ogg`,
+  id: "bk168068-93e8-4bb6-b762-dbc57d172111",
+  title: "Burger King France Q1 2023",
+  audioUrl: `${process.env.VERCEL_URL}/bk168068-93e8-4bb6-b762-dbc57d172111.ogg`,
   blocks: [
     {
       end: 4.8,
 
       start: 0,
-      text: 'Hello and welcome to the Burger King France first quarter 2023 conference call.',
+      text: "Hello and welcome to the Burger King France first quarter 2023 conference call.",
     },
     {
       end: 8.2,
@@ -19,19 +19,19 @@ export const burgerKingFrance = {
       end: 10.32,
 
       start: 8.2,
-      text: 'Please note this call is being recorded.',
+      text: "Please note this call is being recorded.",
     },
     {
       end: 15.68,
 
       start: 10.32,
-      text: 'For the duration of the call your lines will be on listen only, however you will have the opportunity to ask questions at the end.',
+      text: "For the duration of the call your lines will be on listen only, however you will have the opportunity to ask questions at the end.",
     },
     {
       end: 21.04,
 
       start: 15.68,
-      text: 'This can be done by pressing star one on your telephone keypad to register your question.',
+      text: "This can be done by pressing star one on your telephone keypad to register your question.",
     },
     {
       end: 26,
@@ -49,13 +49,13 @@ export const burgerKingFrance = {
       end: 31.72,
 
       start: 30.72,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
     {
       end: 38.96,
 
       start: 31.72,
-      text: 'Thank you and welcome everybody to Burger King France Q1 2023 conference call.',
+      text: "Thank you and welcome everybody to Burger King France Q1 2023 conference call.",
     },
     {
       end: 45,
@@ -67,49 +67,49 @@ export const burgerKingFrance = {
       end: 53.28,
 
       start: 45,
-      text: 'Alexandre Simon apologized for not being able to attend this time, but he will make it next time by the end of August.',
+      text: "Alexandre Simon apologized for not being able to attend this time, but he will make it next time by the end of August.",
     },
     {
       end: 67.52,
 
       start: 53.28,
-      text: 'So as we start the presentation on site number five, as you can see after a strong semester 2022, Q1 results confirm that we continue to generate healthy growth despite the inflationary context.',
+      text: "So as we start the presentation on site number five, as you can see after a strong semester 2022, Q1 results confirm that we continue to generate healthy growth despite the inflationary context.",
     },
     {
       end: 74.72,
 
       start: 67.52,
-      text: 'Q1 ABDA grew by 9 million compared to the same period last year to reach 51 million.',
+      text: "Q1 ABDA grew by 9 million compared to the same period last year to reach 51 million.",
     },
     {
       end: 81.16,
 
       start: 74.72,
-      text: 'This significant increase in profitability is driven by the growth of our system wide shares.',
+      text: "This significant increase in profitability is driven by the growth of our system wide shares.",
     },
     {
       end: 92.92,
 
       start: 81.16,
-      text: 'Q1 system wide shares grew by close to 30% compared to the same period last year and almost 100 million versus Q1.',
+      text: "Q1 system wide shares grew by close to 30% compared to the same period last year and almost 100 million versus Q1.",
     },
     {
       end: 104.47999999999999,
 
       start: 92.92,
-      text: 'The QSR market continues to perform well in France and within this market Burger King France to continue to overperform, which confirms that we have the right strategy.',
+      text: "The QSR market continues to perform well in France and within this market Burger King France to continue to overperform, which confirms that we have the right strategy.",
     },
     {
       end: 108.32,
 
       start: 104.47999999999999,
-      text: 'We continue to develop our network to size the market potential.',
+      text: "We continue to develop our network to size the market potential.",
     },
     {
       end: 120,
 
       start: 108.32,
-      text: 'In Q1 2023, we have opened 10 new restaurants in main entrance and over the last 12 months period, we have actually opened 44 new restaurants.',
+      text: "In Q1 2023, we have opened 10 new restaurants in main entrance and over the last 12 months period, we have actually opened 44 new restaurants.",
     },
     {
       end: 133.07999999999998,
@@ -121,109 +121,109 @@ export const burgerKingFrance = {
       end: 155.23999999999998,
 
       start: 133.07999999999998,
-      text: 'Our plan is also to continue to develop the sales of our existing restaurants and in order to drive further demand in this inflationary context, we continue to look for a good balance between comparable traffic growth and targeted price increase to protect restaurant margins.',
+      text: "Our plan is also to continue to develop the sales of our existing restaurants and in order to drive further demand in this inflationary context, we continue to look for a good balance between comparable traffic growth and targeted price increase to protect restaurant margins.",
     },
     {
       end: 163.2,
 
       start: 155.23999999999998,
-      text: 'As explained on slide number six, our top-line growth reflects the success of our marketing strategy, which is based on four levels.',
+      text: "As explained on slide number six, our top-line growth reflects the success of our marketing strategy, which is based on four levels.",
     },
     {
       end: 166,
 
       start: 163.2,
-      text: 'First level, convenience.',
+      text: "First level, convenience.",
     },
     {
       end: 168.72,
 
       start: 166,
-      text: 'We continue to improve our digital channels.',
+      text: "We continue to improve our digital channels.",
     },
     {
       end: 179.28,
 
       start: 168.72,
-      text: 'Notably, we recently launched our own delivery service that we call King Delivery, which enables our customers to directly order via our app.',
+      text: "Notably, we recently launched our own delivery service that we call King Delivery, which enables our customers to directly order via our app.",
     },
     {
       end: 186.76,
 
       start: 179.28,
-      text: 'Today, the new service has been deployed in all edible restaurants.',
+      text: "Today, the new service has been deployed in all edible restaurants.",
     },
     {
       end: 190.96,
 
       start: 186.76,
-      text: 'The second level is great food and attractive offer.',
+      text: "The second level is great food and attractive offer.",
     },
     {
       end: 201.64,
 
       start: 190.96,
-      text: 'We manage to continue to drive consumer preference with successfully limited time offers such as the cheddar lover or more recently, the veggie chicken.',
+      text: "We manage to continue to drive consumer preference with successfully limited time offers such as the cheddar lover or more recently, the veggie chicken.",
     },
     {
       end: 214.51999999999998,
 
       start: 201.64,
-      text: 'For families, we continue to strengthen our offer with accuracy prices and with kids license, which are attractive for children menu.',
+      text: "For families, we continue to strengthen our offer with accuracy prices and with kids license, which are attractive for children menu.",
     },
     {
       end: 217.23999999999998,
 
       start: 214.51999999999998,
-      text: 'The third level is drive experience.',
+      text: "The third level is drive experience.",
     },
     {
       end: 230.36,
 
       start: 217.23999999999998,
-      text: 'We need to continue to generate a very positive experience to our guests and the implementation of reusable tableware in our restaurant, combined with table service is a way to reinforce the quality of our guest experience.',
+      text: "We need to continue to generate a very positive experience to our guests and the implementation of reusable tableware in our restaurant, combined with table service is a way to reinforce the quality of our guest experience.",
     },
     {
       end: 236.16000000000003,
 
       start: 230.36,
-      text: 'As of today, almost all of restaurants have made the switch to this reusable tableware.',
+      text: "As of today, almost all of restaurants have made the switch to this reusable tableware.",
     },
     {
       end: 239.48000000000002,
 
       start: 236.16000000000003,
-      text: 'This is a great move.',
+      text: "This is a great move.",
     },
     {
       end: 243.48000000000002,
 
       start: 239.48000000000002,
-      text: 'And the fourth level is to provide good value for money.',
+      text: "And the fourth level is to provide good value for money.",
     },
     {
       end: 253.64,
 
       start: 243.48000000000002,
-      text: 'This is key within the current context, and we do it, notably, through the end-month promotion to drive urgency to visit.',
+      text: "This is key within the current context, and we do it, notably, through the end-month promotion to drive urgency to visit.",
     },
     {
       end: 262.6,
 
       start: 253.64,
-      text: 'Throughout the quarter, these marketing initiatives have been supported by innovative marketing campaigns.',
+      text: "Throughout the quarter, these marketing initiatives have been supported by innovative marketing campaigns.",
     },
     {
       end: 285,
 
       start: 262.6,
-      text: 'And before going into the detail of Q1 performance, I would like to spend some time under one recent announcement, recent event, as we announced last week that we have entered into exclusive negotiation for the acquisition of a majority stake in Burger King and La Reunion, which currently operates 17 restaurants within the BK brand.',
+      text: "And before going into the detail of Q1 performance, I would like to spend some time under one recent announcement, recent event, as we announced last week that we have entered into exclusive negotiation for the acquisition of a majority stake in Burger King and La Reunion, which currently operates 17 restaurants within the BK brand.",
     },
     {
       end: 290.4,
 
       start: 285,
-      text: 'And now on slide number seven.',
+      text: "And now on slide number seven.",
     },
     {
       end: 309.44,
@@ -235,25 +235,25 @@ export const burgerKingFrance = {
       end: 322.04,
 
       start: 309.44,
-      text: 'As you might all know, even though our development is quite recent, the French market is already the largest market in terms of system-wide sales outside of the U.S.',
+      text: "As you might all know, even though our development is quite recent, the French market is already the largest market in terms of system-wide sales outside of the U.S.",
     },
     {
       end: 331.44,
 
       start: 322.04,
-      text: 'Within the French Overseas Department and Regions, La Reunion is today the most developed French Overseas territory for Burger King.',
+      text: "Within the French Overseas Department and Regions, La Reunion is today the most developed French Overseas territory for Burger King.",
     },
     {
       end: 344.44,
 
       start: 331.44,
-      text: 'It already benefits from a very positive image of Burger King in major fronts, but Burger King La Reunion also uses some of our IT system, as well as part of our supply chain.',
+      text: "It already benefits from a very positive image of Burger King in major fronts, but Burger King La Reunion also uses some of our IT system, as well as part of our supply chain.",
     },
     {
       end: 349.44,
 
       start: 344.44,
-      text: 'And this will facilitate the integration of Burger King La Reunion within Burger King France.',
+      text: "And this will facilitate the integration of Burger King La Reunion within Burger King France.",
     },
     {
       end: 376.76,
@@ -265,259 +265,259 @@ export const burgerKingFrance = {
       end: 381.6,
 
       start: 376.76,
-      text: 'On slide number nine, we present the key financials of the transaction.',
+      text: "On slide number nine, we present the key financials of the transaction.",
     },
     {
       end: 392.32000000000005,
 
       start: 381.6,
-      text: 'In 2022, the target generated 11 million of estimated EBDA post-IFRS 16.',
+      text: "In 2022, the target generated 11 million of estimated EBDA post-IFRS 16.",
     },
     {
       end: 405.16,
 
       start: 392.32000000000005,
-      text: 'And when we analyzed the performance of the restaurants which opened during the last year, Burger King La Reunion generated 13 million, one-three, of post-IFRS 16 run-write EBDA.',
+      text: "And when we analyzed the performance of the restaurants which opened during the last year, Burger King La Reunion generated 13 million, one-three, of post-IFRS 16 run-write EBDA.",
     },
     {
       end: 412.16,
 
       start: 405.16,
-      text: 'At closing of the transaction, we shoot for the 31st of May, if can stick to the deadline.',
+      text: "At closing of the transaction, we shoot for the 31st of May, if can stick to the deadline.",
     },
     {
       end: 418.8,
 
       start: 412.16,
-      text: 'We will own 70% of the equity of the target.',
+      text: "We will own 70% of the equity of the target.",
     },
     {
       end: 429,
 
       start: 418.8,
-      text: 'It should be noted that the seller plans to remain with us for the next few years to continue to support and develop the group at La Reunion.',
+      text: "It should be noted that the seller plans to remain with us for the next few years to continue to support and develop the group at La Reunion.",
     },
     {
       end: 435.48,
 
       start: 429,
-      text: 'In order to fund the acquisition, we plan to raise 40 million of senior secure debt at Burger King France level.',
+      text: "In order to fund the acquisition, we plan to raise 40 million of senior secure debt at Burger King France level.",
     },
     {
       end: 452.8,
 
       start: 435.48,
-      text: 'And this transaction, which should be actually almost leverage-neutral, we estimate that the leverage at 5.5 times at closing or even 5.2 times if we take the run-write-adjusted EBDA.',
+      text: "And this transaction, which should be actually almost leverage-neutral, we estimate that the leverage at 5.5 times at closing or even 5.2 times if we take the run-write-adjusted EBDA.",
     },
     {
       end: 464.48,
 
       start: 452.8,
-      text: 'This will leave us with a healthy liquidity question to manage our activity and, again, the relevance of future developments.',
+      text: "This will leave us with a healthy liquidity question to manage our activity and, again, the relevance of future developments.",
     },
     {
       end: 471.72,
 
       start: 464.48,
-      text: 'Following your recent announcement, we believe that it was important to give you a bit more detail about this transaction.',
+      text: "Following your recent announcement, we believe that it was important to give you a bit more detail about this transaction.",
     },
     {
       end: 477.8,
 
       start: 471.72,
-      text: 'And at the end of the call, I will be happy to take any questions you might have on that topic.',
+      text: "And at the end of the call, I will be happy to take any questions you might have on that topic.",
     },
     {
       end: 480.84000000000003,
 
       start: 477.8,
-      text: 'Now, back to Q1 performance on slide number 11.',
+      text: "Now, back to Q1 performance on slide number 11.",
     },
     {
       end: 488.48,
 
       start: 480.84000000000003,
-      text: 'Just to clarify, all the figures hereafter do not include BK La Reunion as the projection has not yet been closed.',
+      text: "Just to clarify, all the figures hereafter do not include BK La Reunion as the projection has not yet been closed.",
     },
     {
       end: 506.06,
 
       start: 488.48,
-      text: 'If we focus first on the network, you can see that we ended the year 2022 with 482 restaurants, of which 474 were operated with the BK brand, and in Q1 2023, we have opened 10 new restaurants in mainland France.',
+      text: "If we focus first on the network, you can see that we ended the year 2022 with 482 restaurants, of which 474 were operated with the BK brand, and in Q1 2023, we have opened 10 new restaurants in mainland France.",
     },
     {
       end: 518.84,
 
       start: 506.06,
-      text: 'And therefore, at the end of the quarter, our network was made of 492 restaurants, of which 4184 operated with the BK brand.',
+      text: "And therefore, at the end of the quarter, our network was made of 492 restaurants, of which 4184 operated with the BK brand.",
     },
     {
       end: 529.08,
 
       start: 518.84,
-      text: 'Looking at the system-wide sales evolution on slide number 12, you can see that we continue to drive sales up at the same pace as for the two previous quarters.',
+      text: "Looking at the system-wide sales evolution on slide number 12, you can see that we continue to drive sales up at the same pace as for the two previous quarters.",
     },
     {
       end: 536.28,
 
       start: 529.08,
-      text: 'In Q1 2023, we generated 432 million system-wide sales.',
+      text: "In Q1 2023, we generated 432 million system-wide sales.",
     },
     {
       end: 548.16,
 
       start: 536.28,
-      text: 'Given the seasonality of our activity, Q1 system-wide sales has already been historically lower than the Q4 quarter.',
+      text: "Given the seasonality of our activity, Q1 system-wide sales has already been historically lower than the Q4 quarter.",
     },
     {
       end: 553.6,
 
       start: 548.16,
-      text: 'But given this seasonality, you can see that we generated a very strong growth.',
+      text: "But given this seasonality, you can see that we generated a very strong growth.",
     },
     {
       end: 562.92,
 
       start: 553.6,
-      text: 'As you compare it to the previous quarter for the same period last year, you can see that we generated 96.3 million of growth.',
+      text: "As you compare it to the previous quarter for the same period last year, you can see that we generated 96.3 million of growth.",
     },
     {
       end: 569.68,
 
       start: 562.92,
-      text: 'This growth was fueled by the development of the network and by positive system-wide sales.',
+      text: "This growth was fueled by the development of the network and by positive system-wide sales.",
     },
     {
       end: 582.88,
 
       start: 569.68,
-      text: 'For the last 12 months, you can see that we generated 1,678,000,000 of system-wide sales, which demonstrates again the strength of our activity.',
+      text: "For the last 12 months, you can see that we generated 1,678,000,000 of system-wide sales, which demonstrates again the strength of our activity.",
     },
     {
       end: 602.32,
 
       start: 582.88,
-      text: 'As we look to the profitability of our activity on slide 13, we are happy to report that during the fourth quarter, our reporting EBITDA increased by 8.8 million or 21% versus the same period last year.',
+      text: "As we look to the profitability of our activity on slide 13, we are happy to report that during the fourth quarter, our reporting EBITDA increased by 8.8 million or 21% versus the same period last year.",
     },
     {
       end: 615,
 
       start: 602.32,
-      text: 'Reflecting our strategy to favor the development of our restaurants with our franchise model, you can see that this increase in EBITDA for the quarter was primarily fueled by the franchise activity.',
+      text: "Reflecting our strategy to favor the development of our restaurants with our franchise model, you can see that this increase in EBITDA for the quarter was primarily fueled by the franchise activity.",
     },
     {
       end: 624.04,
 
       start: 615,
-      text: 'Please note that at the end of the quarter, 87% of our restaurants are franchise.',
+      text: "Please note that at the end of the quarter, 87% of our restaurants are franchise.",
     },
     {
       end: 635.42,
 
       start: 624.04,
-      text: 'The profitability of our company restaurants for the quarter was at the level expected for the period with 8 million of EBITDA for 62 BK restaurants.',
+      text: "The profitability of our company restaurants for the quarter was at the level expected for the period with 8 million of EBITDA for 62 BK restaurants.",
     },
     {
       end: 650.2,
 
       start: 635.42,
-      text: 'When you compare it to the prior year performance, it should be noted that Q1 2022 benefited from 1.5 million of disposal gain related to the transfer of four former company-operated restaurants into franchise restaurants.',
+      text: "When you compare it to the prior year performance, it should be noted that Q1 2022 benefited from 1.5 million of disposal gain related to the transfer of four former company-operated restaurants into franchise restaurants.",
     },
     {
       end: 659.72,
 
       start: 650.2,
-      text: 'In the meantime, despite inflationary pressure, we managed to contain the evolution of our GNA at a lower pace than our system-wide sales growth.',
+      text: "In the meantime, despite inflationary pressure, we managed to contain the evolution of our GNA at a lower pace than our system-wide sales growth.",
     },
     {
       end: 669.96,
 
       start: 659.72,
-      text: 'As a result, the reported EBITDA for the period amounted to 50.6 million versus 41.8 last year.',
+      text: "As a result, the reported EBITDA for the period amounted to 50.6 million versus 41.8 last year.",
     },
     {
       end: 678.6,
 
       start: 669.96,
-      text: 'As we move to the next slide, we will focus now on our cap expanding.',
+      text: "As we move to the next slide, we will focus now on our cap expanding.",
     },
     {
       end: 684.6800000000001,
 
       start: 678.6,
-      text: 'Just in a few words, you can see that our cap expanding for the quarter amounted to 7.6 million.',
+      text: "Just in a few words, you can see that our cap expanding for the quarter amounted to 7.6 million.",
     },
     {
       end: 691.6800000000001,
 
       start: 684.6800000000001,
-      text: 'As expected, most of the cap expanding is now rated to our opening program.',
+      text: "As expected, most of the cap expanding is now rated to our opening program.",
     },
     {
       end: 706.8399999999999,
 
       start: 691.6800000000001,
-      text: 'And as I previously mentioned, during the quarter, we opened 10 new restaurants and 8 in April, for which most of the capex had been spent in Q1.',
+      text: "And as I previously mentioned, during the quarter, we opened 10 new restaurants and 8 in April, for which most of the capex had been spent in Q1.",
     },
     {
       end: 719.04,
 
       start: 706.8399999999999,
-      text: 'Moving now to the cash conversion and slide number 15, you can see that the 51 reported EBITDA translated into a 7 million increase in our cash position after financing.',
+      text: "Moving now to the cash conversion and slide number 15, you can see that the 51 reported EBITDA translated into a 7 million increase in our cash position after financing.",
     },
     {
       end: 738,
 
       start: 719.04,
-      text: 'The financing activity includes for the quarter 8.4 million of interest for Burger Influence financial debt, and 21.6 million of pre-option of lease debt including interest, which represents our rents payment to our landlord.',
+      text: "The financing activity includes for the quarter 8.4 million of interest for Burger Influence financial debt, and 21.6 million of pre-option of lease debt including interest, which represents our rents payment to our landlord.",
     },
     {
       end: 755.88,
 
       start: 738,
-      text: 'I am now on slide 16, and as you can see at the end of the quarter, our net financial debt before slide 16 decreased by 7 million for the period, from 516 million to 509.',
+      text: "I am now on slide 16, and as you can see at the end of the quarter, our net financial debt before slide 16 decreased by 7 million for the period, from 516 million to 509.",
     },
     {
       end: 761,
 
       start: 755.88,
-      text: 'This primarily reflects the increase of our cash available.',
+      text: "This primarily reflects the increase of our cash available.",
     },
     {
       end: 768.6,
 
       start: 761,
-      text: 'At the end of Q1, we had 123 million of cash on our balance sheet.',
+      text: "At the end of Q1, we had 123 million of cash on our balance sheet.",
     },
     {
       end: 785.76,
 
       start: 768.6,
-      text: 'Please note that since then, we have upstream cash to Midco to pay its 9 million semester interest, and then since then, we have also paid Burger Influence quarterly interest.',
+      text: "Please note that since then, we have upstream cash to Midco to pay its 9 million semester interest, and then since then, we have also paid Burger Influence quarterly interest.",
     },
     {
       end: 800.08,
 
       start: 785.76,
-      text: 'Back to Q1, you can see that during the first quarter, our IFR 16 debt grew by 9 million, and this reflects the signature of new leases that we have signed in order to fuel our future development.',
+      text: "Back to Q1, you can see that during the first quarter, our IFR 16 debt grew by 9 million, and this reflects the signature of new leases that we have signed in order to fuel our future development.",
     },
     {
       end: 820.36,
 
       start: 800.08,
-      text: 'All in all, we had a financial debt plus IFR 16 debt, and we combined that with a significant increase of EBITDA, our net leverage continues to decrease quarter after quarter.',
+      text: "All in all, we had a financial debt plus IFR 16 debt, and we combined that with a significant increase of EBITDA, our net leverage continues to decrease quarter after quarter.",
     },
     {
       end: 823.36,
 
       start: 820.36,
-      text: 'We are now close to five times.',
+      text: "We are now close to five times.",
     },
     {
       end: 830.36,
 
       start: 823.36,
-      text: 'So this concludes our presentation, and I am pleased to take any question you might have.',
+      text: "So this concludes our presentation, and I am pleased to take any question you might have.",
     },
     {
       end: 842.08,
@@ -529,43 +529,43 @@ export const burgerKingFrance = {
       end: 849.28,
 
       start: 842.08,
-      text: 'To withdraw your question, please press star 2.',
+      text: "To withdraw your question, please press star 2.",
     },
     {
       end: 852.28,
 
       start: 849.28,
-      text: 'And our first question is from Ladi Arya with HPS.',
+      text: "And our first question is from Ladi Arya with HPS.",
     },
     {
       end: 853.28,
 
       start: 852.28,
-      text: 'Hi, good afternoon.',
+      text: "Hi, good afternoon.",
     },
     {
       end: 854.28,
 
       start: 853.28,
-      text: 'Thank you for the presentation.',
+      text: "Thank you for the presentation.",
     },
     {
       end: 855.28,
 
       start: 854.28,
-      text: 'Can you hear me okay?',
+      text: "Can you hear me okay?",
     },
     {
       end: 856.28,
 
       start: 855.28,
-      text: 'Yeah, I can hear you.',
+      text: "Yeah, I can hear you.",
     },
     {
       end: 857.28,
 
       start: 856.28,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
     {
       end: 864.04,
@@ -577,67 +577,67 @@ export const burgerKingFrance = {
       end: 871.64,
 
       start: 864.04,
-      text: 'I think I heard you mention the transfer of franchise restaurants to company-operated or the other way around.',
+      text: "I think I heard you mention the transfer of franchise restaurants to company-operated or the other way around.",
     },
     {
       end: 872.64,
 
       start: 871.64,
-      text: 'What was that?',
+      text: "What was that?",
     },
     {
       end: 875.8399999999999,
 
       start: 872.64,
-      text: 'Could you please repeat the comment?',
+      text: "Could you please repeat the comment?",
     },
     {
       end: 887.7199999999999,
 
       start: 875.8399999999999,
-      text: 'What I mentioned is the fact that last year in Q1, we transferred some company-operated restaurants into franchise restaurants.',
+      text: "What I mentioned is the fact that last year in Q1, we transferred some company-operated restaurants into franchise restaurants.",
     },
     {
       end: 894.8399999999999,
 
       start: 887.7199999999999,
-      text: 'Some restaurants, four actually, were operated at the beginning of Q1 to the 22 quarter as company restaurants.',
+      text: "Some restaurants, four actually, were operated at the beginning of Q1 to the 22 quarter as company restaurants.",
     },
     {
       end: 900.26,
 
       start: 894.8399999999999,
-      text: 'And then we transfer them, we change the operating mode, and transfer them to franchisee.',
+      text: "And then we transfer them, we change the operating mode, and transfer them to franchisee.",
     },
     {
       end: 906,
 
       start: 900.26,
-      text: 'When we do that, we usually somehow sell these restaurants.',
+      text: "When we do that, we usually somehow sell these restaurants.",
     },
     {
       end: 910.72,
 
       start: 906,
-      text: 'We keep the business goodwill, but we sell these restaurants to franchisee.',
+      text: "We keep the business goodwill, but we sell these restaurants to franchisee.",
     },
     {
       end: 924.5600000000001,
 
       start: 910.72,
-      text: 'In Q1 of last year, we generated 1.5 million of disposal gain, which impacted the performance of the company restaurants during that quarter.',
+      text: "In Q1 of last year, we generated 1.5 million of disposal gain, which impacted the performance of the company restaurants during that quarter.",
     },
     {
       end: 927.52,
 
       start: 924.5600000000001,
-      text: 'Okay, I see.',
+      text: "Okay, I see.",
     },
     {
       end: 929.0400000000001,
 
       start: 927.52,
-      text: 'How many restaurants was this?',
+      text: "How many restaurants was this?",
     },
     {
       end: 932.44,
@@ -649,19 +649,19 @@ export const burgerKingFrance = {
       end: 933.44,
 
       start: 932.44,
-      text: 'Have you done this before?',
+      text: "Have you done this before?",
     },
     {
       end: 934.44,
 
       start: 933.44,
-      text: 'Yes.',
+      text: "Yes.",
     },
     {
       end: 935.44,
 
       start: 934.44,
-      text: 'Yes.',
+      text: "Yes.",
     },
     {
       end: 939.36,
@@ -673,7 +673,7 @@ export const burgerKingFrance = {
       end: 942.2,
 
       start: 939.36,
-      text: 'It depends.',
+      text: "It depends.",
     },
     {
       end: 951.44,
@@ -685,37 +685,37 @@ export const burgerKingFrance = {
       end: 954.92,
 
       start: 951.44,
-      text: 'You know that we have two operating models, two main operating models.',
+      text: "You know that we have two operating models, two main operating models.",
     },
     {
       end: 957.5600000000001,
 
       start: 954.92,
-      text: 'One is to operate directly on restaurants.',
+      text: "One is to operate directly on restaurants.",
     },
     {
       end: 980.08,
 
       start: 957.5600000000001,
-      text: 'This is what we call company-operating model, but the model we favor is the franchise model, we franchise the restaurants, and we sign lease management agreements with the franchisee so that they can operate the restaurants on our behalf.',
+      text: "This is what we call company-operating model, but the model we favor is the franchise model, we franchise the restaurants, and we sign lease management agreements with the franchisee so that they can operate the restaurants on our behalf.",
     },
     {
       end: 981.08,
 
       start: 980.08,
-      text: 'Yes.',
+      text: "Yes.",
     },
     {
       end: 982.08,
 
       start: 981.08,
-      text: 'That makes sense.',
+      text: "That makes sense.",
     },
     {
       end: 983.08,
 
       start: 982.08,
-      text: 'Just a second.',
+      text: "Just a second.",
     },
     {
       end: 994.92,
@@ -727,7 +727,7 @@ export const burgerKingFrance = {
       end: 995.92,
 
       start: 994.92,
-      text: 'Is that fair?',
+      text: "Is that fair?",
     },
     {
       end: 1001.0799999999999,
@@ -739,25 +739,25 @@ export const burgerKingFrance = {
       end: 1003.0799999999999,
 
       start: 1001.0799999999999,
-      text: 'yet? Yes.',
+      text: "yet? Yes.",
     },
     {
       end: 1020.04,
 
       start: 1003.0799999999999,
-      text: 'We make some money because when we sell, when we dispose these kind of restaurants, we make some money because we sell operating restaurants working well, and therefore, we can sell them at a higher price than the cost just to build them.',
+      text: "We make some money because when we sell, when we dispose these kind of restaurants, we make some money because we sell operating restaurants working well, and therefore, we can sell them at a higher price than the cost just to build them.",
     },
     {
       end: 1022.04,
 
       start: 1020.04,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
     {
       end: 1049.24,
 
       start: 1022.04,
-      text: 'The main goal of this network, what we call network management, is primarily to keep consistent cluster of restaurants, and usually what happens is that if I have a restaurant to open, most of the time, I have a franchisee ready to operate it, but in some cases, I do not have the franchisee ready to take it.',
+      text: "The main goal of this network, what we call network management, is primarily to keep consistent cluster of restaurants, and usually what happens is that if I have a restaurant to open, most of the time, I have a franchisee ready to operate it, but in some cases, I do not have the franchisee ready to take it.",
     },
     {
       end: 1053.08,
@@ -769,25 +769,25 @@ export const burgerKingFrance = {
       end: 1065.64,
 
       start: 1053.08,
-      text: 'Then what I can do is I open the restaurant as company-operated, and down the road, when I will have identified a franchisee, I will franchise it.',
+      text: "Then what I can do is I open the restaurant as company-operated, and down the road, when I will have identified a franchisee, I will franchise it.",
     },
     {
       end: 1071.6,
 
       start: 1065.64,
-      text: 'Most of the time, we open directly the restaurant with the franchisee.',
+      text: "Most of the time, we open directly the restaurant with the franchisee.",
     },
     {
       end: 1072.6,
 
       start: 1071.6,
-      text: 'Got it.',
+      text: "Got it.",
     },
     {
       end: 1073.6,
 
       start: 1072.6,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
     {
       end: 1079.56,
@@ -805,7 +805,7 @@ export const burgerKingFrance = {
       end: 1102.44,
 
       start: 1086.1999999999998,
-      text: 'We do not have a huge seasonality within quarter after quarter, but the Q4 quarter, especially with the December months, is always and has always been the highest quarter in terms of system-wide sales.',
+      text: "We do not have a huge seasonality within quarter after quarter, but the Q4 quarter, especially with the December months, is always and has always been the highest quarter in terms of system-wide sales.",
     },
     {
       end: 1110,
@@ -823,7 +823,7 @@ export const burgerKingFrance = {
       end: 1121.8400000000001,
 
       start: 1114.8400000000001,
-      text: 'What is relevant is to compare the system-wide sales of Q12023 with the system-wide sales of Q12022.',
+      text: "What is relevant is to compare the system-wide sales of Q12023 with the system-wide sales of Q12022.",
     },
     {
       end: 1132.16,
@@ -835,19 +835,19 @@ export const burgerKingFrance = {
       end: 1133.16,
 
       start: 1132.16,
-      text: 'Got it.',
+      text: "Got it.",
     },
     {
       end: 1134.16,
 
       start: 1133.16,
-      text: 'Got it.',
+      text: "Got it.",
     },
     {
       end: 1135.16,
 
       start: 1134.16,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
     {
       end: 1140.1200000000001,
@@ -871,31 +871,31 @@ export const burgerKingFrance = {
       end: 1161.2,
 
       start: 1155.16,
-      text: 'These restaurants today are operated directly by the seller.',
+      text: "These restaurants today are operated directly by the seller.",
     },
     {
       end: 1170.44,
 
       start: 1161.2,
-      text: 'At the beginning, when we buy them, we will continue to operate them as a company-operated.',
+      text: "At the beginning, when we buy them, we will continue to operate them as a company-operated.",
     },
     {
       end: 1186.68,
 
       start: 1170.44,
-      text: 'We will certainly re-franchise them at some point, so in order to align the La Réunion model to what we do here in Menon-France.',
+      text: "We will certainly re-franchise them at some point, so in order to align the La Réunion model to what we do here in Menon-France.",
     },
     {
       end: 1202.0800000000002,
 
       start: 1186.68,
-      text: 'The master franchise agreement for the La Réunion region, is that held with Burger King France, or can you open stores in La Réunion, or how does the MFA work in relation',
+      text: "The master franchise agreement for the La Réunion region, is that held with Burger King France, or can you open stores in La Réunion, or how does the MFA work in relation",
     },
     {
       end: 1216.84,
 
       start: 1202.0800000000002,
-      text: 'to that area? We will have two different MFA, very similar, one for Menon-France and one for La Réunion, and this MFF for La Réunion will allow us to continue to open your restaurants.',
+      text: "to that area? We will have two different MFA, very similar, one for Menon-France and one for La Réunion, and this MFF for La Réunion will allow us to continue to open your restaurants.",
     },
     {
       end: 1219.6799999999998,
@@ -919,19 +919,19 @@ export const burgerKingFrance = {
       end: 1258.44,
 
       start: 1234.52,
-      text: 'The R agreement for Burger King France was limited to Menon-France, but by acquiring La Réunion, we will actually buy the MFA agreement, technically we will actually sign a new one with BK, with RVI, but we will have a specific agreement for La Réunion.',
+      text: "The R agreement for Burger King France was limited to Menon-France, but by acquiring La Réunion, we will actually buy the MFA agreement, technically we will actually sign a new one with BK, with RVI, but we will have a specific agreement for La Réunion.",
     },
     {
       end: 1260,
 
       start: 1258.44,
-      text: 'Okay, thank you.',
+      text: "Okay, thank you.",
     },
     {
       end: 1266.52,
 
       start: 1260,
-      text: 'And finally from me, when is the acquisition expected to close, and will you be coming to market for the 40 million?',
+      text: "And finally from me, when is the acquisition expected to close, and will you be coming to market for the 40 million?",
     },
     {
       end: 1279.2,
@@ -943,13 +943,13 @@ export const burgerKingFrance = {
       end: 1284.08,
 
       start: 1279.2,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
     {
       end: 1289,
 
       start: 1284.08,
-      text: 'The next question comes from a line of Hila Kurt from Wellington, please go ahead.',
+      text: "The next question comes from a line of Hila Kurt from Wellington, please go ahead.",
     },
     {
       end: 1296.32,
@@ -961,25 +961,25 @@ export const burgerKingFrance = {
       end: 1307.64,
 
       start: 1296.32,
-      text: 'I wonder why the acquisition, why now, and what that means for your acquisition strategy going forward, to begin with.',
+      text: "I wonder why the acquisition, why now, and what that means for your acquisition strategy going forward, to begin with.",
     },
     {
       end: 1308.64,
 
       start: 1307.64,
-      text: 'Why now?',
+      text: "Why now?",
     },
     {
       end: 1323.96,
 
       start: 1308.64,
-      text: 'Why now is because, first, even though we, for Menon-France, today, you know that we believe that we have a long way to go in order to continue to develop the network.',
+      text: "Why now is because, first, even though we, for Menon-France, today, you know that we believe that we have a long way to go in order to continue to develop the network.",
     },
     {
       end: 1338.3600000000001,
 
       start: 1323.96,
-      text: 'Today we have close to 500 restaurants in France, in Menon-France, and we believe that we have a significant potential to go much beyond on the territory, on the Menon-France.',
+      text: "Today we have close to 500 restaurants in France, in Menon-France, and we believe that we have a significant potential to go much beyond on the territory, on the Menon-France.",
     },
     {
       end: 1344.52,
@@ -1003,37 +1003,37 @@ export const burgerKingFrance = {
       end: 1420.16,
 
       start: 1401.48,
-      text: 'We believe that there will be opportunity to open a few more, and we believe that by leveraging our capabilities, Burger King France capabilities, we will be able to drive sales up and to continue to develop this area.',
+      text: "We believe that there will be opportunity to open a few more, and we believe that by leveraging our capabilities, Burger King France capabilities, we will be able to drive sales up and to continue to develop this area.",
     },
     {
       end: 1444.56,
 
       start: 1420.16,
-      text: 'So for us, it is an opportunity that we wanted to decide, and we believe that today, as the seller wanted to progressively withdraw from this activity, it was a good fit for us to do that.',
+      text: "So for us, it is an opportunity that we wanted to decide, and we believe that today, as the seller wanted to progressively withdraw from this activity, it was a good fit for us to do that.",
     },
     {
       end: 1451.72,
 
       start: 1444.56,
-      text: 'Is that just based on the EBITDA number?',
+      text: "Is that just based on the EBITDA number?",
     },
     {
       end: 1455.76,
 
       start: 1451.72,
-      text: 'Are those restaurants making more EBITDA than you do in France?',
+      text: "Are those restaurants making more EBITDA than you do in France?",
     },
     {
       end: 1460.04,
 
       start: 1455.76,
-      text: 'Is it a higher IRS sort of region?',
+      text: "Is it a higher IRS sort of region?",
     },
     {
       end: 1470.28,
 
       start: 1460.04,
-      text: 'The average IRS of these restaurants is close to the one that we have in Menon-France.',
+      text: "The average IRS of these restaurants is close to the one that we have in Menon-France.",
     },
     {
       end: 1502.28,
@@ -1045,13 +1045,13 @@ export const burgerKingFrance = {
       end: 1509.6000000000001,
 
       start: 1502.28,
-      text: 'You mentioned you bought the 70 percent, is there a put agreement by the seller to tell you the rest of it?',
+      text: "You mentioned you bought the 70 percent, is there a put agreement by the seller to tell you the rest of it?",
     },
     {
       end: 1512.96,
 
       start: 1509.6000000000001,
-      text: 'Yes, there will be.',
+      text: "Yes, there will be.",
     },
     {
       end: 1518.88,
@@ -1069,13 +1069,13 @@ export const burgerKingFrance = {
       end: 1537.72,
 
       start: 1531.04,
-      text: 'Thank you very much.',
+      text: "Thank you very much.",
     },
     {
       end: 1541.4,
 
       start: 1537.72,
-      text: 'We currently have no questions coming through as a final reminder.',
+      text: "We currently have no questions coming through as a final reminder.",
     },
     {
       end: 1547.24,
@@ -1087,43 +1087,43 @@ export const burgerKingFrance = {
       end: 1551.64,
 
       start: 1547.24,
-      text: 'The next question comes from the line of Julian Martin from ABDIN.',
+      text: "The next question comes from the line of Julian Martin from ABDIN.",
     },
     {
       end: 1553.64,
 
       start: 1551.64,
-      text: 'Please go ahead.',
+      text: "Please go ahead.",
     },
     {
       end: 1556,
 
       start: 1553.64,
-      text: 'Hi, good afternoon.',
+      text: "Hi, good afternoon.",
     },
     {
       end: 1558.64,
 
       start: 1556,
-      text: 'Thanks for the call.',
+      text: "Thanks for the call.",
     },
     {
       end: 1565.4,
 
       start: 1558.64,
-      text: 'I wondered whether you considered sending the acquisition with cash on balance sheet.',
+      text: "I wondered whether you considered sending the acquisition with cash on balance sheet.",
     },
     {
       end: 1574.68,
 
       start: 1565.4,
-      text: 'I mean, you seem to have a fair amount of cash, and you are, you know, pre-cash or positive.',
+      text: "I mean, you seem to have a fair amount of cash, and you are, you know, pre-cash or positive.",
     },
     {
       end: 1583.4,
 
       start: 1574.68,
-      text: 'So I wondered why not using cash to just fund the transaction, it would still leave you with unpolished liquidity for running the business and expanding France.',
+      text: "So I wondered why not using cash to just fund the transaction, it would still leave you with unpolished liquidity for running the business and expanding France.",
     },
     {
       end: 1588.96,
@@ -1135,25 +1135,25 @@ export const burgerKingFrance = {
       end: 1595.02,
 
       start: 1588.96,
-      text: 'As you mentioned, we had a significant amount of cash at the end of Q1.',
+      text: "As you mentioned, we had a significant amount of cash at the end of Q1.",
     },
     {
       end: 1601.6,
 
       start: 1595.02,
-      text: 'We could potentially have done, we could have funded the acquisition without cash.',
+      text: "We could potentially have done, we could have funded the acquisition without cash.",
     },
     {
       end: 1619.24,
 
       start: 1601.6,
-      text: 'However, we believe that it is safer and better to keep a high level of liquidity on our balance sheet just in case something happens and in order to be able to finance our growth.',
+      text: "However, we believe that it is safer and better to keep a high level of liquidity on our balance sheet just in case something happens and in order to be able to finance our growth.",
     },
     {
       end: 1654.32,
 
       start: 1619.24,
-      text: 'The point for us is that today we have a network of close to 500 restaurants, it will be actually even higher when we close this acquisition, and we believe that it is safe to keep a high level of cash on our balance sheet in order to face potential challenge even though we do not foresee this kind of challenge in the coming months or in the coming years.',
+      text: "The point for us is that today we have a network of close to 500 restaurants, it will be actually even higher when we close this acquisition, and we believe that it is safe to keep a high level of cash on our balance sheet in order to face potential challenge even though we do not foresee this kind of challenge in the coming months or in the coming years.",
     },
     {
       end: 1678.44,
@@ -1177,67 +1177,67 @@ export const burgerKingFrance = {
       end: 1705.08,
 
       start: 1696.12,
-      text: 'The next question comes from the line of Shirley Wong from JP Morgan. Please go ahead.',
+      text: "The next question comes from the line of Shirley Wong from JP Morgan. Please go ahead.",
     },
     {
       end: 1706.08,
 
       start: 1705.08,
-      text: 'Thanks.',
+      text: "Thanks.",
     },
     {
       end: 1707.08,
 
       start: 1706.08,
-      text: 'I think my question has been answered.',
+      text: "I think my question has been answered.",
     },
     {
       end: 1708.08,
 
       start: 1707.08,
-      text: 'That was the previous question that you just answered as well.',
+      text: "That was the previous question that you just answered as well.",
     },
     {
       end: 1709.08,
 
       start: 1708.08,
-      text: 'Thanks.',
+      text: "Thanks.",
     },
     {
       end: 1710.08,
 
       start: 1709.08,
-      text: 'So thanks.',
+      text: "So thanks.",
     },
     {
       end: 1711.08,
 
       start: 1710.08,
-      text: 'None more for me.',
+      text: "None more for me.",
     },
     {
       end: 1712.08,
 
       start: 1711.08,
-      text: 'Yeah.',
+      text: "Yeah.",
     },
     {
       end: 1723.08,
 
       start: 1712.08,
-      text: 'The next question comes from the line of Ladi Arya from HBS.',
+      text: "The next question comes from the line of Ladi Arya from HBS.",
     },
     {
       end: 1726.08,
 
       start: 1723.08,
-      text: 'Please go ahead.',
+      text: "Please go ahead.",
     },
     {
       end: 1728.6799999999998,
 
       start: 1726.08,
-      text: 'Thanks for taking another question.',
+      text: "Thanks for taking another question.",
     },
     {
       end: 1747.3999999999999,
@@ -1249,25 +1249,25 @@ export const burgerKingFrance = {
       end: 1748.3999999999999,
 
       start: 1747.3999999999999,
-      text: 'Is that right?',
+      text: "Is that right?",
     },
     {
       end: 1749.3999999999999,
 
       start: 1748.3999999999999,
-      text: 'Yes.',
+      text: "Yes.",
     },
     {
       end: 1750.3999999999999,
 
       start: 1749.3999999999999,
-      text: 'The same thing.',
+      text: "The same thing.",
     },
     {
       end: 1751.3999999999999,
 
       start: 1750.3999999999999,
-      text: 'Right.',
+      text: "Right.",
     },
     {
       end: 1752.4,
@@ -1351,7 +1351,7 @@ export const burgerKingFrance = {
       end: 1872.92,
 
       start: 1855.3999999999999,
-      text: 'When you look at it, before the acquisition of Quick, we had only, at the end of 2015, we had only 40 restaurants, and we have multiplied this number of restaurants by more than 10.',
+      text: "When you look at it, before the acquisition of Quick, we had only, at the end of 2015, we had only 40 restaurants, and we have multiplied this number of restaurants by more than 10.",
     },
     {
       end: 1884.6000000000001,
@@ -1381,13 +1381,13 @@ export const burgerKingFrance = {
       end: 1960.4,
 
       start: 1953.64,
-      text: 'The French market, when you compare it to other markets, is somehow unique.',
+      text: "The French market, when you compare it to other markets, is somehow unique.",
     },
     {
       end: 1979.8400000000001,
 
       start: 1960.4,
-      text: 'We, on the French market, you can see that the average sales per restaurant, for us, it was, when you look at it on the LTM basis, at the end of March, it is slightly higher than 3.5 million.',
+      text: "We, on the French market, you can see that the average sales per restaurant, for us, it was, when you look at it on the LTM basis, at the end of March, it is slightly higher than 3.5 million.",
     },
     {
       end: 1988.24,
@@ -1411,7 +1411,7 @@ export const burgerKingFrance = {
       end: 2065.36,
 
       start: 2062.36,
-      text: 'Average sales per restaurant.',
+      text: "Average sales per restaurant.",
     },
     {
       end: 2068.36,
@@ -1423,19 +1423,19 @@ export const burgerKingFrance = {
       end: 2069.36,
 
       start: 2068.36,
-      text: 'Per year, per year.',
+      text: "Per year, per year.",
     },
     {
       end: 2070.36,
 
       start: 2069.36,
-      text: 'Per year, sorry.',
+      text: "Per year, sorry.",
     },
     {
       end: 2073.36,
 
       start: 2070.36,
-      text: 'Per year, 3.5 million.',
+      text: "Per year, 3.5 million.",
     },
     {
       end: 2078.36,
@@ -1453,25 +1453,25 @@ export const burgerKingFrance = {
       end: 2104.36,
 
       start: 2099.36,
-      text: 'Got it, thank you very much.',
+      text: "Got it, thank you very much.",
     },
     {
       end: 2110.36,
 
       start: 2104.36,
-      text: 'The next question comes from a line of Young Wang from BlackRock, please go ahead.',
+      text: "The next question comes from a line of Young Wang from BlackRock, please go ahead.",
     },
     {
       end: 2112.36,
 
       start: 2110.36,
-      text: 'Hi, good evening.',
+      text: "Hi, good evening.",
     },
     {
       end: 2115.36,
 
       start: 2112.36,
-      text: 'One quick follow-up question from my side.',
+      text: "One quick follow-up question from my side.",
     },
     {
       end: 2150.36,
@@ -1483,37 +1483,37 @@ export const burgerKingFrance = {
       end: 2151.36,
 
       start: 2150.36,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
     {
       end: 2156.36,
 
       start: 2151.36,
-      text: 'So I think if I understand well, you have two questions.',
+      text: "So I think if I understand well, you have two questions.",
     },
     {
       end: 2170.36,
 
       start: 2156.36,
-      text: 'One is you were referring to the fact that we franchise some restaurants last year, and you were asking if this is something that we plan to continue to do and to what extent.',
+      text: "One is you were referring to the fact that we franchise some restaurants last year, and you were asking if this is something that we plan to continue to do and to what extent.",
     },
     {
       end: 2183.36,
 
       start: 2170.36,
-      text: 'Managing your network, changing from one operating mode to another is something that we can do, I would say, when needed.',
+      text: "Managing your network, changing from one operating mode to another is something that we can do, I would say, when needed.",
     },
     {
       end: 2198.36,
 
       start: 2183.36,
-      text: 'But actually what I mentioned also is that adding up Q1, we had 87% of our restaurants which were already operated with the franchise model.',
+      text: "But actually what I mentioned also is that adding up Q1, we had 87% of our restaurants which were already operated with the franchise model.",
     },
     {
       end: 2210.36,
 
       start: 2198.36,
-      text: 'Clearly, when we open your restaurants, the model we favor is the franchise model with the lease management.',
+      text: "Clearly, when we open your restaurants, the model we favor is the franchise model with the lease management.",
     },
     {
       end: 2215.36,
@@ -1531,13 +1531,13 @@ export const burgerKingFrance = {
       end: 2256.36,
 
       start: 2250.36,
-      text: 'We also use our company restaurants to test some new ideas, to test some new products.',
+      text: "We also use our company restaurants to test some new ideas, to test some new products.",
     },
     {
       end: 2264.36,
 
       start: 2256.36,
-      text: 'It is easier for us to do it with our company-operated restaurants before we do it with franchisee.',
+      text: "It is easier for us to do it with our company-operated restaurants before we do it with franchisee.",
     },
     {
       end: 2285.36,
@@ -1555,25 +1555,25 @@ export const burgerKingFrance = {
       end: 2298.36,
 
       start: 2291.36,
-      text: 'Then, when we have identified and trained the franchisee, we will be able to franchise the restaurant.',
+      text: "Then, when we have identified and trained the franchisee, we will be able to franchise the restaurant.",
     },
     {
       end: 2301.36,
 
       start: 2298.36,
-      text: 'This is what happened.',
+      text: "This is what happened.",
     },
     {
       end: 2307.36,
 
       start: 2301.36,
-      text: 'To summarize, our plan is to continue to have some company restaurants.',
+      text: "To summarize, our plan is to continue to have some company restaurants.",
     },
     {
       end: 2309.36,
 
       start: 2307.36,
-      text: 'Today we have 60.',
+      text: "Today we have 60.",
     },
     {
       end: 2332.36,
@@ -1585,85 +1585,85 @@ export const burgerKingFrance = {
       end: 2335.36,
 
       start: 2332.36,
-      text: 'There are many benefits to that.',
+      text: "There are many benefits to that.",
     },
     {
       end: 2352.36,
 
       start: 2335.36,
-      text: 'To your question on leverage, this franchisee model allows us to open restaurants with an asset-like model, which means that we do not spend much capex to open your restaurants.',
+      text: "To your question on leverage, this franchisee model allows us to open restaurants with an asset-like model, which means that we do not spend much capex to open your restaurants.",
     },
     {
       end: 2363.36,
 
       start: 2352.36,
-      text: 'Therefore, a significant portion of our EBITDA translates into cash increase.',
+      text: "Therefore, a significant portion of our EBITDA translates into cash increase.",
     },
     {
       end: 2368.36,
 
       start: 2363.36,
-      text: 'At the same time, we continue to increase our EBDA.',
+      text: "At the same time, we continue to increase our EBDA.",
     },
     {
       end: 2373.36,
 
       start: 2368.36,
-      text: 'Therefore, it means that the net leverage continues to decrease.',
+      text: "Therefore, it means that the net leverage continues to decrease.",
     },
     {
       end: 2375.36,
 
       start: 2373.36,
-      text: 'We can look at that when you look at the past.',
+      text: "We can look at that when you look at the past.",
     },
     {
       end: 2380.36,
 
       start: 2375.36,
-      text: 'When we refinanced last year, in 2021, the leverage was higher.',
+      text: "When we refinanced last year, in 2021, the leverage was higher.",
     },
     {
       end: 2395.36,
 
       start: 2380.36,
-      text: 'Today, our net leverage is slightly higher than five and our plan is to continue to de-leverage.',
+      text: "Today, our net leverage is slightly higher than five and our plan is to continue to de-leverage.",
     },
     {
       end: 2398.36,
 
       start: 2395.36,
-      text: 'Okay, thank you very much.',
+      text: "Okay, thank you very much.",
     },
     {
       end: 2403.36,
 
       start: 2398.36,
-      text: 'The next question comes from a line of Renu Shiva from CVC Credit in London.',
+      text: "The next question comes from a line of Renu Shiva from CVC Credit in London.",
     },
     {
       end: 2405.36,
 
       start: 2403.36,
-      text: 'Please go ahead.',
+      text: "Please go ahead.",
     },
     {
       end: 2409.36,
 
       start: 2405.36,
-      text: 'Hi. Thank you very much and congrats on the great results.',
+      text: "Hi. Thank you very much and congrats on the great results.",
     },
     {
       end: 2412.36,
 
       start: 2409.36,
-      text: 'Just a couple of questions for me.',
+      text: "Just a couple of questions for me.",
     },
     {
       end: 2417.36,
 
       start: 2412.36,
-      text: 'Could you provide an update and a little bit more colour on the underlying franchisee health?',
+      text: "Could you provide an update and a little bit more colour on the underlying franchisee health?",
     },
     {
       end: 2429.36,
@@ -1675,7 +1675,7 @@ export const burgerKingFrance = {
       end: 2432.36,
 
       start: 2429.36,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
     {
       end: 2440.36,
@@ -1687,25 +1687,25 @@ export const burgerKingFrance = {
       end: 2448.36,
 
       start: 2440.36,
-      text: 'In order to develop a franchise network, you need to have franchisee in good health.',
+      text: "In order to develop a franchise network, you need to have franchisee in good health.",
     },
     {
       end: 2451.36,
 
       start: 2448.36,
-      text: 'This is the case for our network.',
+      text: "This is the case for our network.",
     },
     {
       end: 2466.36,
 
       start: 2451.36,
-      text: 'The franchisee went through the COVID period and more recently went through the inflationary period in a successful way.',
+      text: "The franchisee went through the COVID period and more recently went through the inflationary period in a successful way.",
     },
     {
       end: 2483.36,
 
       start: 2466.36,
-      text: 'As I mentioned, we try to find the right balance between increasing our prices to protect the margin of the restaurants and remaining affordable for our customers.',
+      text: "As I mentioned, we try to find the right balance between increasing our prices to protect the margin of the restaurants and remaining affordable for our customers.",
     },
     {
       end: 2491.36,
@@ -1723,7 +1723,7 @@ export const burgerKingFrance = {
       end: 2508.36,
 
       start: 2499.36,
-      text: 'This growth of system-wide sales is made of average tech and new customers or increasing traffic.',
+      text: "This growth of system-wide sales is made of average tech and new customers or increasing traffic.",
     },
     {
       end: 2536.36,
@@ -1735,25 +1735,25 @@ export const burgerKingFrance = {
       end: 2542.36,
 
       start: 2536.36,
-      text: 'So far, we are not aware of significant challenges.',
+      text: "So far, we are not aware of significant challenges.",
     },
     {
       end: 2559.36,
 
       start: 2542.36,
-      text: 'What I can say, a nice way for me to look at it is when I look at my ending balance, do I have many franchisees which are not current with me?',
+      text: "What I can say, a nice way for me to look at it is when I look at my ending balance, do I have many franchisees which are not current with me?",
     },
     {
       end: 2573.36,
 
       start: 2559.36,
-      text: 'Actually, the answer to that is no, all my franchisees, if not all, most of them are current with me, which means that they are actually in a good health.',
+      text: "Actually, the answer to that is no, all my franchisees, if not all, most of them are current with me, which means that they are actually in a good health.",
     },
     {
       end: 2578.36,
 
       start: 2573.36,
-      text: 'We can monitor that when we track their performance.',
+      text: "We can monitor that when we track their performance.",
     },
     {
       end: 2582.36,
@@ -1765,37 +1765,37 @@ export const burgerKingFrance = {
       end: 2595.36,
 
       start: 2582.36,
-      text: 'I think you touched on this slightly earlier, but are you seeing similar demands for the uptake of Burger King restaurants from franchisees?',
+      text: "I think you touched on this slightly earlier, but are you seeing similar demands for the uptake of Burger King restaurants from franchisees?",
     },
     {
       end: 2600.36,
 
       start: 2595.36,
-      text: 'Do I see demand for additional restaurants from franchisees?',
+      text: "Do I see demand for additional restaurants from franchisees?",
     },
     {
       end: 2603.36,
 
       start: 2600.36,
-      text: 'Yes, which is given in the macro context.',
+      text: "Yes, which is given in the macro context.",
     },
     {
       end: 2642.36,
 
       start: 2603.36,
-      text: 'Yes, definitely. Our model is quite attractive for franchisees because this question is directly linked to the fact that when you look at existing Burger King franchisees, they are in good health, they have had the opportunity to develop their business, and they can expect down the road as we develop the network to get additional restaurants.',
+      text: "Yes, definitely. Our model is quite attractive for franchisees because this question is directly linked to the fact that when you look at existing Burger King franchisees, they are in good health, they have had the opportunity to develop their business, and they can expect down the road as we develop the network to get additional restaurants.",
     },
     {
       end: 2649.36,
 
       start: 2642.36,
-      text: 'For this reason, we have many candidates to enter into the market.',
+      text: "For this reason, we have many candidates to enter into the market.",
     },
     {
       end: 2660.36,
 
       start: 2649.36,
-      text: 'Per year, I would say that we welcome 10 to 15 new franchisees per year.',
+      text: "Per year, I would say that we welcome 10 to 15 new franchisees per year.",
     },
     {
       end: 2668.36,
@@ -1807,7 +1807,7 @@ export const burgerKingFrance = {
       end: 2686.36,
 
       start: 2668.36,
-      text: 'We have actually more demand than we need, so we can select precisely our franchisees and only give restaurants to the ones we believe are the right ones.',
+      text: "We have actually more demand than we need, so we can select precisely our franchisees and only give restaurants to the ones we believe are the right ones.",
     },
     {
       end: 2704.36,
@@ -1819,7 +1819,7 @@ export const burgerKingFrance = {
       end: 2748.36,
 
       start: 2704.36,
-      text: 'I think that when we released 2022 earnings, we mentioned the fact that in order to help our franchisees to face the energy electricity increase in 2023, we provided some relief, but limited to our franchisees in order to help them support the electricity increase, which was significant in Q1 in France.',
+      text: "I think that when we released 2022 earnings, we mentioned the fact that in order to help our franchisees to face the energy electricity increase in 2023, we provided some relief, but limited to our franchisees in order to help them support the electricity increase, which was significant in Q1 in France.",
     },
     {
       end: 2764.36,
@@ -1831,49 +1831,49 @@ export const burgerKingFrance = {
       end: 2781.36,
 
       start: 2764.36,
-      text: 'Why did we do that? You might know that in France, when you manage a network of franchisees, you cannot force them to have specific prices. You can only recommend prices.',
+      text: "Why did we do that? You might know that in France, when you manage a network of franchisees, you cannot force them to have specific prices. You can only recommend prices.",
     },
     {
       end: 2805.36,
 
       start: 2781.36,
-      text: 'But we managed to have a network of franchisees who trust what we do and what we recommend, and actually, we managed to convince our franchisees to speak to the pricing policy that we believe is the right one.',
+      text: "But we managed to have a network of franchisees who trust what we do and what we recommend, and actually, we managed to convince our franchisees to speak to the pricing policy that we believe is the right one.",
     },
     {
       end: 2820.36,
 
       start: 2805.36,
-      text: 'This pricing policy consists of increasing our price moderately, keep our market prices unchanged, in order to drive positive value perception.',
+      text: "This pricing policy consists of increasing our price moderately, keep our market prices unchanged, in order to drive positive value perception.",
     },
     {
       end: 2837.36,
 
       start: 2820.36,
-      text: 'And in order to find the right balance with our franchisees and to avoid that they would do crazy things with their prices, we have actually, in Q1, proactively granted some theories to them.',
+      text: "And in order to find the right balance with our franchisees and to avoid that they would do crazy things with their prices, we have actually, in Q1, proactively granted some theories to them.",
     },
     {
       end: 2858.36,
 
       start: 2837.36,
-      text: 'Again, the goal for us was that by doing so, we would take advantage as a network of this infrastructure context, reinforce our price positioning as we compare it to the competition, and become even more attractive to the customer.',
+      text: "Again, the goal for us was that by doing so, we would take advantage as a network of this infrastructure context, reinforce our price positioning as we compare it to the competition, and become even more attractive to the customer.",
     },
     {
       end: 2889.36,
 
       start: 2858.36,
-      text: 'And we believe that the strong growth that we have experienced over the last quarters, Q3, Q4 of 2022 and Q1 now, reflects the fact that our pricing strategy was the right one and that the fact that we have invested a limited amount of fee relief in order to get the consent of our franchisees, but we believe that it was the right thing to do.',
+      text: "And we believe that the strong growth that we have experienced over the last quarters, Q3, Q4 of 2022 and Q1 now, reflects the fact that our pricing strategy was the right one and that the fact that we have invested a limited amount of fee relief in order to get the consent of our franchisees, but we believe that it was the right thing to do.",
     },
     {
       end: 2898.36,
 
       start: 2889.36,
-      text: 'All in all, it benefits to them and it benefits to us.',
+      text: "All in all, it benefits to them and it benefits to us.",
     },
     {
       end: 2904.36,
 
       start: 2898.36,
-      text: 'Fantastic. Thank you very much. That was super helpful.',
+      text: "Fantastic. Thank you very much. That was super helpful.",
     },
     {
       end: 2911.36,
@@ -1885,25 +1885,25 @@ export const burgerKingFrance = {
       end: 2916.36,
 
       start: 2911.36,
-      text: 'Okay, so thank you everybody for attending this call.',
+      text: "Okay, so thank you everybody for attending this call.",
     },
     {
       end: 2922.36,
 
       start: 2916.36,
-      text: 'Again, it was a pleasure to share with you our results and answer your question.',
+      text: "Again, it was a pleasure to share with you our results and answer your question.",
     },
     {
       end: 2932.36,
 
       start: 2922.36,
-      text: 'And I wish we will see you for the Q2 release, which will be planned sometime in August.',
+      text: "And I wish we will see you for the Q2 release, which will be planned sometime in August.",
     },
     {
       end: 2934.36,
 
       start: 2932.36,
-      text: 'Thank you.',
+      text: "Thank you.",
     },
   ],
 };
